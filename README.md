@@ -8,7 +8,8 @@ Nahashon's-website
     It entails 
     My education background
     An image that represents who I am.
-    Paragraph on why am doing programing 
+    Paragraph on why am doing programing.
+    cheers!!
 
 
     ###### Contact details 
